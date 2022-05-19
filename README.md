@@ -3,18 +3,18 @@ A project for the  completion of the J component of Internet and Web Programming
 
 
 To Run the Project:
-Database Configuration
-Start xampp server
-Open phpmyadmin "http://localhost/phpmyadmin"
-Create Database bbdms
-Import database bbdms.sql (available inside zip package)
-Open Your browser put inside browser "http://localhost/bbdms"
+--> Database Configuration
+Start xampp server, 
+Open phpmyadmin "http://localhost/phpmyadmin", 
+Create Database bbdms, 
+Import database bbdms.sql (available inside zip package), 
+Open Your browser put inside browser "http://localhost/bbdms", 
 
 For Admin Panel
 Open Your browser put inside browser "http://localhost/bbdms/admin"
 
-Login Details for admin :
-Username: admin
+Login Details for admin --> 
+Username: admin, 
 Password: abhishek
 
 
